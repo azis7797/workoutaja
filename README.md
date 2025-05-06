@@ -9,7 +9,7 @@ Responsif: Tampilan yang optimal di berbagai perangkat, baik desktop maupun mobi
 Struktur Sederhana: Mudah dipahami dan dikembangkan lebih lanjut.
 
 # 📸 Pratinjau
-
+![image](https://github.com/user-attachments/assets/d5615d2a-672a-468a-bc59-a622853427f9)
 Catatan: Gambar di atas adalah ilustrasi antarmuka aplikasi.
 
 # 🛠️ Teknologi yang Digunakan
